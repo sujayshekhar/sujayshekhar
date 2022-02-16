@@ -11,9 +11,9 @@ I'm a passionate Data Scientist. Experienced in Supervised Machine Learning, Uns
 - Machine learning projects,
 - Deep Learning projects.
 
-<div align="center">
 ## Connect with me:
 
+<div align="center">
 <p align = "center">
 	
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/dataenthusaist_/) 

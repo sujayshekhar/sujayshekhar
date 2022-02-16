@@ -20,7 +20,8 @@ I'm a passionate Data Scientist. Experienced in Supervised Machine Learning, Uns
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/dataenthusaist_/) 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_dataenthusiast/)
 
-<!-- <img align="left" alt="Rushikesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujayshekhar&show_icons=true&hide_border=true" />   -->
+<!-- <img align="left" alt="Sujay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujayshekhar&show_icons=true&hide_border=true" />   -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujayshekhar&show_icons=true&locale=en&layout=compact" alt="Sujay Shekhar" /></p>
  
 <div align="center">
         

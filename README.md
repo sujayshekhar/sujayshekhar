@@ -11,7 +11,6 @@ I'm a passionate Data Scientist. Experienced in Supervised Machine Learning, Uns
 - Machine learning projects,
 - Deep Learning projects.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayshekhar" alt="sujayshekhar" /></a> </p>
 
 ## Connect with me:
 
@@ -21,7 +20,7 @@ I'm a passionate Data Scientist. Experienced in Supervised Machine Learning, Uns
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/_dataenthusiast/)
 
 <!-- <img align="left" alt="Sujay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujayshekhar&show_icons=true&hide_border=true" />   -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujayshekhar&show_icons=true&locale=en&layout=compact" alt="Sujay Shekhar" /></p>
+
  
 <div align="center">
         

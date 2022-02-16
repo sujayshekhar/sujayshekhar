@@ -11,7 +11,7 @@ I'm a passionate Data Scientist. Experienced in Supervised Machine Learning, Uns
 - Machine learning projects,
 - Deep Learning projects.
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujayshekhar" alt="sujayshekhar" /></a> </p>
 
 ## Connect with me:
 
